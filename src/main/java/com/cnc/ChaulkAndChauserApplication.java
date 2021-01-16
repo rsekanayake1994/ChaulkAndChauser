@@ -8,7 +8,7 @@ public class ChaulkAndChauserApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ChaulkAndChauserApplication.class, args);
-		System.out.println("Working");
+		System.out.println("It's Working");
 	}
 
 
